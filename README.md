@@ -15,8 +15,8 @@
 
 |      キムジョンミン       |                                                                                                                      
 | :------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://user-images.githubusercontent.com/50205887/205326013-af001243-a77d-4601-8bfc-aa713931cf95.png" />    |  
-|   [@parkjiye](https://github.com/parkjiye)   |  
+|   <img width="160px" src=""/>    |  
+|   [@parkjiye](https://github.com/N1C0N1C0)   |  
 | 성균관대학교 소프트웨어학과 4학년 | 
 
 ## Stacks
